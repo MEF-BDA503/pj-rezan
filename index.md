@@ -1,7 +1,8 @@
 # Progress Journal
 ## Week 3 (Oct 24)
-
+---
 + The data set I am propose to use in my project is the Crypto Currency data set. [Here](https://www.kaggle.com/sudalairajkumar/cryptocurrencypricehistory/data) is the data and my initial exploratory data analysis on it.
+---
 
 + Our group members are below. We haven't decided on a name and our dataset yet.
 
