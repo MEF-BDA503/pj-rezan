@@ -10,7 +10,7 @@
   + [Cem Gürkan](https://mef-bda503.github.io/pj-gurkanc/)
   + [Semih Tekten](https://mef-bda503.github.io/pj-tektens/) 
   + [Rezan Azizoğlu](https://mef-bda503.github.io/pj-rezan/) 
-
+---
 
 ## Week 2 (Oct 10)
 
