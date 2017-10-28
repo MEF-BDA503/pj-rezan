@@ -2,7 +2,7 @@
 ## Week 3 (Oct 24)
 
 ---
-+ The data set I am propose to use in my project is the Solar Energy data set. [Here](https://www.kaggle.com/dronio/SolarEnergy/data) is the data and my initial exploratory data analysis on it.
+  + The data set I am propose to use in my project is the Solar Energy data set. [Here](https://www.kaggle.com/dronio/SolarEnergy/data) is the data and my initial exploratory data analysis on it.
 ---
 
 ---
